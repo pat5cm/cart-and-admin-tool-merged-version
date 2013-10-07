@@ -1,0 +1,33 @@
+/* 
+    Document   : mystyle
+    Created on : Oct 5, 2013, 2:56:52 PM
+    Author     : Lixing
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.container {
+    width: 960px;
+    margin: auto;
+}
+
+#login-btn{
+    margin-top: 7px;
+    margin-right: 5px;
+}
+
+.categorytree,
+.categorytree ul{
+    list-style: none;
+}
+
+.categorytree img {
+    max-width: 100px;
+}
+
+.categorytree a {
+    font-family: 'Lobster',cursive;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+}
